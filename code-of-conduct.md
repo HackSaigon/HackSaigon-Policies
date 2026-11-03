@@ -1,44 +1,71 @@
-**TL;DR. Be respectful. Harassment and abuse are never tolerated. If you are in a situation that makes you uncomfortable at an MLH Member Event, if the event itself creates an unsafe or inappropriate environment, or if interacting with an MLH representative or event organizer makes you uncomfortable, please report it using the procedures included in this document.**
+# HackSaigon Code of Conduct
 
-Major League Hacking (MLH) stands for inclusivity. We believe that every single person has the right to hack in a safe and welcoming environment.
+**TL;DR: Be respectful. Harassment and abuse are never tolerated. If something that happens in  HackSaigon chat, call, workshop, or project makes you uncomfortable, or if the event itself, a HackSaigon Staff member, or another participant creates an unsafe or inappropriate environment, please report it using the procedures in this document.**
 
-Harassment includes but is not limited to offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, social class, economic status, and veteran status. Additional cases of harassment include but are not limited to sharing sexual images, violent depictions, vulgar language, deliberate intimidation, stalking, following, brigading, doxxing, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. 
+## Our Commitment
 
-In particular, attendees should not use sexualized images, activities, or other material both in their hacks and during the event. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes or otherwise create a sexualized environment.
+HackSaigon stands for inclusivity. We believe that every person has the right to hack in a safe and welcoming environment.
 
-If what you’re doing is making someone feel uncomfortable, that counts as harassment and is enough reason to stop doing it. Participants asked to stop any harassing behavior are expected to comply immediately.
+## What Counts as Harassment
 
-Sponsors, judges, mentors, volunteers, organizers, MLH staff, and anyone else participating in the event are also subject to the anti-harassment policy. 
+Harassment includes, but is not limited to, offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, nationality, language or accent, social class, economic status, and veteran status.
 
-If a participant engages in harassing behavior, MLH may take any action it deems appropriate, including warning the offender or expulsion from the event with no eligibility for reimbursement or refund of any type.
+Because HackSaigon takes place entirely online, harassment also includes:
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact MLH using the reporting procedures defined below.
+- Sharing sexual images, violent depictions, or vulgar language in chat channels, direct messages, voice or video calls, usernames, avatars, profile pictures, or virtual backgrounds
+- Deliberate intimidation, stalking, following a person across channels or platforms, or repeated unwanted direct messages
+- Brigading, spamming, or mass-tagging a person or group
+- Doxxing, meaning sharing someone's personal information, such as their real name, location, photos, or accounts, without their consent
+- Recording, screenshotting, or streaming another person's video, voice, or private messages without their consent, and harassing photography or recording of any kind
+- "Zoom-bombing" or otherwise sustained disruption of talks, workshops, judging sessions, or other events, including unmuting to disrupt, sharing unwanted screens, or flooding chats
+- Unwelcome sexual attention or inappropriate contact, including unsolicited requests for private calls or video
 
-MLH representatives can help participants contact campus security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
+## Content and Projects
 
-We expect participants to follow these rules at all hackathon venues, hackathon-related social events, hackathon-supplied transportation, and online interactions related to the event.
+Participants must not use sexualized images, activities, or other material in their hacks, demos, presentations, or submissions, or anywhere else during the event. Sponsor and partner representatives, volunteers, and HackSaigon Staff must not use sexualized clothing, imagery, backgrounds, or virtual booth materials, or otherwise create a sexualized environment.
+
+## Respecting Others Online
+
+- If what you are doing makes someone feel uncomfortable, that counts as harassment and is enough reason to stop. Participants asked to stop any harassing behavior are expected to comply immediately.
+- Cameras and microphones are optional. Do not pressure anyone to turn on their video or share personal details.
+- Participants join from many time zones and backgrounds. Be patient with differences in language, connection quality, and availability.
+- Keep private chats, team conversations, and unreleased project ideas private unless the people involved agree to share them.
+
+## Who This Applies To
+
+Sponsors, judges, mentors, volunteers, organizers, HackSaigon Staff, and anyone else participating in the event are also subject to this anti-harassment policy.
+
+We expect everyone to follow these rules in all HackSaigon spaces, including the event Discord or chat server, video calls, livestreams, workshops, mentor sessions, team channels, project submission platforms, social events, and any other online interaction related to the event. This also covers conduct outside official channels when it targets another participant because of their involvement in HackSaigon.
+
+## Consequences
+
+If a participant engages in harassing behavior, HackSaigon may take any action it deems appropriate, including:
+
+- Issuing a warning
+- Muting the person or removing them from channels or calls
+- Disqualifying a team or project
+- Removing the person from the event and banning them from future HackSaigon events
+
+Participants who are removed are not eligible for prizes, swag, or any other rewards.
+
+## Support
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact HackSaigon Staff using the reporting procedures below.
+
+HackSaigon Staff can remove or mute offenders, delete harmful content, move you to a private channel, check in with you one-on-one, and help you contact local support services or law enforcement where appropriate. We value your participation.
 
 ## Reporting Procedures
 
-If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods. All reporters have the right to remain anonymous.
+If you feel uncomfortable or think there may be a potential violation of this code of conduct, please report it as soon as possible using one of the following methods. All reporters have the right to remain anonymous.
 
-By sending information to the general reporting line, your report will go to our incident response team members.
+Reports go to the HackSaigon incident response team.
 
-- North America General Reporting - +1 409 202 6060, incidents@mlh.io
-- Canada General Reporting - +1 343 453 4532, incidents@mlh.io
-- UK General Reporting - +44 800 808 5675, incidents@mlh.io
-- Europe General Reporting - +44 333 038 5995, incidents@mlh.io
-- Asia-Pacific General Reporting - +91 000 80004 02492, incidents@mlh.io
-- India General Reporting - 000 80004 02492, incidents@mlh.io
+- **Email:** contact@hacksaigon.com
+- **Discord / chat server:** message any member with the [@HackSaigon Lead Staff] role privately
+- **During live events:** message the HackSaigon Staff in the event's help channel or call, and ask to be moved to a private room
 
-## Special Incidents
+When reporting, it helps to include screenshots, usernames, the channel or call where it happened, and the approximate time with your time zone. You can still report without these.
 
-If you are uncomfortable reporting your situation to one or more of these people or need to contact any of them directly in case of emergency, direct contact details are listed below.
+HackSaigon reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact HackSaigon by email at [contact@hacksaigon.com](mailto:contact@hacksaigon.org).
 
-- Mary Siebert - +1 (516) 362-1835, mary@mlh.io
-- Swift - +1 (347) 220-8667, swift@mlh.io
-
-MLH reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at incidents@mlh.io.
-
-This document was last updated on: 
-April 16th 2026
+This document was last updated on: October 30, 2026
